@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",немчура всякая Baden TV
+http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cnn-us.png" group-title="News",янки CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8?checkedby:iptvcat.net
